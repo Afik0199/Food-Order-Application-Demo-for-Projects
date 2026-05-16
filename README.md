@@ -53,9 +53,5 @@ Generates and displays the final order receipt.
 
 ---
 
-## How to Run
+## Author - Afik Afsar
 
-### Clone the Repository
-
-```bash
-git clone https://github.com/Afik0199/Food-Order-Application-Demo-for-Projects.git
